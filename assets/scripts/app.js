@@ -1,7 +1,7 @@
 'use strict';
 
 const app = {
-  host: 'https://event-planner-api-753.herokuapp.com',
+  host: 'https://happening-rhj.herokuapp.com/',
 };
 
 module.exports = app;
