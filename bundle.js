@@ -1446,7 +1446,7 @@ webpackJsonp([0],[
 	'use strict';
 
 	var app = {
-	  host: 'https://happening-rhj.herokuapp.com/'
+	  host: 'https://happening-rhj.herokuapp.com'
 	};
 
 	module.exports = app;
