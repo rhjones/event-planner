@@ -9,7 +9,7 @@ _Online invitations for events big and small_
 Put your event plans into digital action with Happening, an event invitation app to help you manage your event-related correspondence with ease. Create your own digital invitations for any type of event you're planning and watch the RSVPs roll in.
 Users can create events and browse/RSVP to other users' events.
 
-Happening was originally built in collaboration with [@jaimegaribaldo7](https://github.com/JaimeGaribaldo7) and [@styletabtech](https://github.com/styletabtech). **For notes on the development process, see [my blog post](http://rebekahheacock.org/2016/11/general-assembly-wdi-week-9/).**
+Happening was originally built in collaboration with [@jaimegaribaldo7](https://github.com/JaimeGaribaldo7) and [@styletabtech](https://github.com/styletabtech). **For notes on our group development process, see [my blog post](http://rebekahheacock.org/2016/11/general-assembly-wdi-week-9/).**
 
 # Technologies Used
 
